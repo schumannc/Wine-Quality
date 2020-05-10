@@ -1,0 +1,6 @@
+name: wine
+dependencies:
+  - numpy
+  - scikit-learn
+  - seaborn
+
